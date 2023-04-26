@@ -3,4 +3,4 @@ Dashboard-for-admin-usage
 using REACT,Calendar and material UI
 
 
-Finance Dashboard
+Financial Dashboard for CharlesCapital a project of my own. 
