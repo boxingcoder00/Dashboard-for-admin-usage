@@ -1,4 +1,4 @@
-Dashboard-for-administator-finance
+Dashboard-For-Administator-Finance
 
 Interactive InterFace
 
